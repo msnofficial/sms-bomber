@@ -1,2 +1,0 @@
-# sms-bomber
-sms bomber
