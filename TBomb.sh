@@ -97,7 +97,7 @@ else
     echo .
     echo .
     install_deps
-    echo This Script Was Made By SpeedX > .update
+    echo This Script Was Made By MSN > .update
     echo 'Requirements Installed....'
     pause
 fi
